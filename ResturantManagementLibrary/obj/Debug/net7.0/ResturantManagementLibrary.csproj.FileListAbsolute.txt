@@ -1,0 +1,11 @@
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\bin\Debug\net7.0\ResturantManagementLibrary.deps.json
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\bin\Debug\net7.0\ResturantManagementLibrary.dll
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\bin\Debug\net7.0\ResturantManagementLibrary.pdb
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ResturantManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ResturantManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ResturantManagementLibrary.AssemblyInfo.cs
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ResturantManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ResturantManagementLibrary.dll
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\refint\ResturantManagementLibrary.dll
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ResturantManagementLibrary.pdb
+C:\Users\FMF-Guest\Desktop\Github Folder Project\ResturantManagementProject\ResturantManagementLibrary\obj\Debug\net7.0\ref\ResturantManagementLibrary.dll
