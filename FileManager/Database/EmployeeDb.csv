@@ -1,0 +1,6 @@
+- Employee Database
+Name, LastName, Email, Phone, Password, Role, Working Time
+Ludovico, Sforzo, ludovicosforzo@gmail.com, 3321234643, 123pippobaudo, Manager, 09:00:00
+Paolo, Napoli, paolonapoli@gmail.com, 339333222111, Frogs, Manager, 09:00:00
+Pippo, Pippo, Pippo@gmail.com, 33322211144, Pippo, Chef, 07:30:00
+Davide, Due, davidedue@live.it, 392222222, due, Waiter, 02:00:00

@@ -1,0 +1,10 @@
+- Tables Database
+TableId      |      Capacity      |      IsAvailable 
+TableA1      |      2      |      true
+TableA2      |      2      |      true
+TableB1      |      4      |   false
+TableB2      |      4      | false
+TableC1      |      8      |      true
+TableC2      |      8      |      true
+TableD1      |      10      |    false
+TableD2      |      10      |  false
